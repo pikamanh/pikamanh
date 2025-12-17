@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, glad to be there! I'm Nguyen Manh Hung 👋
 
+I am **AI Engineer** and interest in **Machine Learning, Deep Learning and Data Science**.
+
+Currently, I am learning Python and building projects around **Computer Vision (CPV)** and **Data Analysis**.
+
+## 🛠️ Tech Stack
+- Programming Language: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 <!--
 **pikamanh/pikamanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
